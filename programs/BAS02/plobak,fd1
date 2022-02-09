@@ -1,6 +1,6 @@
    10 REM >PLOBAK
    20 REM MICRO USER APRIL 1988
-   30 SYS"OS_UpdateMEMC",64,64
+   30 REM SYS"OS_UpdateMEMC",64,64
    40 MODE 7
    50 PRINT
    60 PRINT"Z X    : rotation about Y":PRINT

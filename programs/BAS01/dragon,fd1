@@ -1,5 +1,5 @@
    10 REM >DRAGON
-   20 SYS "OS_UpdateMEMC",64,64
+   20 REM SYS "OS_UpdateMEMC",64,64
    30 S%=4
    40 MODE15
    50 OFF

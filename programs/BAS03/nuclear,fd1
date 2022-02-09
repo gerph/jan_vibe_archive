@@ -1,7 +1,7 @@
    10 REM > NUCLEAR
    20 
    30 MODE137:MODE9:OFF
-   40 SYS"OS_UpdateMEMC",64,64
+   40 REM SYS"OS_UpdateMEMC",64,64
    50 S1%=1:S2%=2:R%=RND(-TIME):K%=60
    60 
    70 DIM X%(K%),Y%(K%),X1%(K%*3),Y1%(K%*3),DX%(K%*3),DY%(K%*3)

@@ -1,6 +1,6 @@
    10 REM > WEB
    20 
-   30 SYS"OS_UpdateMEMC",64,64
+   30 REM SYS"OS_UpdateMEMC",64,64
    40 MODE128:MODE0:OFF
    50 S1%=1:S2%=2:M1%=09:M2%=5
    60 DIM X%(M1%,M2%),Y%(M1%,M2%),X1%(M1%,M2%),Y1%(M1%,M2%),A%(M2%),VA%(M2%)

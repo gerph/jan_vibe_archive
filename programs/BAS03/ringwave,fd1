@@ -1,7 +1,7 @@
    10 REM > RINGWAVE
    20 
    30 MODE137:MODE9:OFF:ORIGIN 128,0
-   40 SYS"OS_UpdateMEMC",64,64
+   40 REM SYS"OS_UpdateMEMC",64,64
    50 S1$="1":S2$="2":A%=0
    60 
    70 FOR N%=1TO15

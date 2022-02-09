@@ -2,7 +2,7 @@
    20 
    30 MODE0:OFF
    40 ONERRORGOTO290
-   50 SYS"OS_UpdateMEMC",64,64
+   50 REM SYS"OS_UpdateMEMC",64,64
    60 S1$="1":S2$="2"
    70 DIM X%(2),Y%(2),DX%(2),DY%(2)
    80 FOR N%=0TO2

@@ -1,7 +1,7 @@
    10 REM > SPIRAL
    20 
    30 MODE137:MODE9:OFF
-   40 SYS"OS_UpdateMEMC",64,64
+   40 REM SYS"OS_UpdateMEMC",64,64
    50 S1$="1":S2$="2"
    60 
    70 ORIGIN 640,512:K%=25:V%=0:VC%=123:VS%=130:S%=16

@@ -1,5 +1,5 @@
    10 REM > FIREWORKS
-   20 SYS "OS_UpdateMEMC",64,64
+   20 REM SYS "OS_UpdateMEMC",64,64
    30 MODE12:OFF
    40 G=9.81:K%=30
    50 DIMVX(K%),VY(K%),X%(K%,15),Y%(K%,15),C%(15)

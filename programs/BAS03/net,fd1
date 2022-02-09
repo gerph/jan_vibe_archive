@@ -1,7 +1,7 @@
    10 REM > NET
    20 
    30 MODE128:MODE0:OFF
-   40 SYS"OS_UpdateMEMC",64,64
+   40 REM SYS"OS_UpdateMEMC",64,64
    50 S1$="1":S2$="2":K%=32:K2%=K%/2
    60 DIM SPR &79000
    70 DIM XP%(K%,K%),YP%(K%,K%),A%(K%,K%),B%(K%,K%)

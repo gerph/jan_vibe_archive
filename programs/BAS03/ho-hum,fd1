@@ -1,6 +1,6 @@
    10 REM > HO-HUM
    20 
-   30 SYS"OS_UpdateMEMC",64,64
+   30 REM SYS"OS_UpdateMEMC",64,64
    40 
    50 MODE141:MODE13:OFF
    60 S1$="1":S2$="2":A%=7

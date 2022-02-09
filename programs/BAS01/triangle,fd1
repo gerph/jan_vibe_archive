@@ -1,6 +1,6 @@
    10 REM > TRIANGLE
    20 
-   30 SYS"OS_UpdateMEMC",64,64
+   30 REM SYS"OS_UpdateMEMC",64,64
    40 MODE12:MODE140
    50 DIM X%(3),Y%(3),DX%(3),DY%(3)
    60 FORN%=1TO3

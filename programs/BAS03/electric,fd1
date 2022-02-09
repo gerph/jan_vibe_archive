@@ -5,7 +5,7 @@
    50 
    60 MODE137:MODE9:OFF
    70 
-   80 SYS"OS_UpdateMEMC",64,64
+   80 REM SYS"OS_UpdateMEMC",64,64
    90 S1%=1:S2%=2:X%=39:Y%=31
   100 DIM A%(X%+1,Y%+1,2):P%=1
   110 PROCINIT

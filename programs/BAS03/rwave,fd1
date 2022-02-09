@@ -1,7 +1,7 @@
    10 REM > RWAVE
    20 
    30 MODE137:MODE9:OFF
-   40 SYS"OS_UpdateMEMC",64,64
+   40 REM SYS"OS_UpdateMEMC",64,64
    50 S1%=1:S2%=2
    60 
    70 DIM SP% &10000,SC% &10,ADR%(15)

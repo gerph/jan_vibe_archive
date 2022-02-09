@@ -1,6 +1,6 @@
    10 REM > DIAMOND
    20 
-   30 SYS"OS_UpdateMEMC",64,64
+   30 REM SYS"OS_UpdateMEMC",64,64
    40 ONERRORGOTO240
    50 MODE0:OFF:K%=10
    60 DIMX(K%),Y(K%),DX(K%),DY(K%)

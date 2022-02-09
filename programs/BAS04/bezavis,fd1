@@ -1,7 +1,7 @@
    10 REM > BEZAVIS
    20 
    30 MODE137:MODE9:OFF
-   40 SYS"OS_UpdateMEMC",64,64
+   40 REM SYS"OS_UpdateMEMC",64,64
    50 S1%=1:S2%=2:P1%=0:P2%=1:S$="                    "
    60 VDU5,23,17,7,6,8;16|:COLOUR0,0,0,80
    70 DIMX(4),Y(4),DY(4),DX(4),XP%(20,1),YP%(20,1),F%(20)

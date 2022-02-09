@@ -1,7 +1,7 @@
    10 REM > DLA
    20 
    30 MODE4:OFF
-   40 SYS"OS_UpdateMEMC",64,64
+   40 REM SYS"OS_UpdateMEMC",64,64
    50 POINT 640,512
    60 Z%=16
    70 REPEAT:A=RND(1)*360

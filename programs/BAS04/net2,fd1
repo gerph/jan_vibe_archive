@@ -1,6 +1,6 @@
    10 REM > NET2
    20 
-   30 SYS"OS_UpdateMEMC",64,64
+   30 REM SYS"OS_UpdateMEMC",64,64
    40 MODE128:MODE0:OFF
    50 S1%=1:S2%=2:K1%=1:K2%=0
    60 DIM PX%(5,4,1),PY%(5,4,1),DX%(5,4),DY%(5,4)

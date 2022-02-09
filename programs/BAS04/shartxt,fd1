@@ -1,6 +1,6 @@
    10 REM > SHARTXT
    20 
-   30 SYS"OS_UpdateMEMC",64,64
+   30 REM SYS"OS_UpdateMEMC",64,64
    40 MODE0:OFF
    50 VDU5,23,17,7,6,36;36|
    60 S1%=1:S2%=2:Z%=6:K%=100:LX%=1279-K%:LY%=1023-K%

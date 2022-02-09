@@ -1,5 +1,5 @@
    10 REM > KALENDER
-   20 SYS"OS_UpdateMEMC",64,64
+   20 REM SYS"OS_UpdateMEMC",64,64
    30 
    40 DIMGX(32,1),GY(32,1),H1(10),H2(10)
    50 

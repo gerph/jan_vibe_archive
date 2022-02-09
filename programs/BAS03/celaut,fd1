@@ -1,7 +1,7 @@
    10 REM > CELAUT
    20 
    30 MODE137:MODE9:ORIGIN 128,0:OFF
-   40 SYS"OS_UpdateMEMC",64,64
+   40 REM SYS"OS_UpdateMEMC",64,64
    50 S1%=1:S2%=2
    60 
    70 DIMA%(2,50,50):P%=1

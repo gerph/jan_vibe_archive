@@ -1,7 +1,7 @@
    10 REM > NET5
    20 
    30 MODE0:OFF
-   40 SYS"OS_UpdateMEMC",64,64
+   40 REM SYS"OS_UpdateMEMC",64,64
    50 ONERRORGOTO740
    60 
    70 DIM IB% 20,OB% 20

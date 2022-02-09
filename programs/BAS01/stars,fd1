@@ -2,7 +2,7 @@
    20 
    21 REM Dette program skal bruge en spritesize paa 5 pages.
    22 
-   30 SYS"OS_UpdateMEMC",64,64
+   30 REM SYS"OS_UpdateMEMC",64,64
    40 ON ERROR GOTO 740
    50 
    60 MODE12:OFF

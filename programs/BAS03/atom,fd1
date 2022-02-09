@@ -1,7 +1,7 @@
    10 REM > ATOM
    20 
    30 MODE137:MODE9:OFF
-   40 SYS"OS_UpdateMEMC",64,64
+   40 REM SYS"OS_UpdateMEMC",64,64
    50 S1$="1":S2$="2":Q%=RND(-TIME)
    60 DIMA%(10,2),B%(10,2),C%(10),D%(10),F%(10)
    70 FORN%=1TO10:FORM%=1TO2

@@ -1,7 +1,7 @@
    10 REM > FEBER
    20 
    30 MODE0:OFF
-   40 SYS"OS_UpdateMEMC",64,64
+   40 REM SYS"OS_UpdateMEMC",64,64
    50 ONERRORGOTO290
    60 S1$="1":S2$="2"
    70 DIMY%(64),DY%(64)

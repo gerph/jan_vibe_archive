@@ -1,7 +1,7 @@
    10 REM > STAR
    20 
    30 MODE137:MODE9:ORIGIN 640,512:OFF
-   40 SYS"OS_UpdateMEMC",64,64
+   40 REM SYS"OS_UpdateMEMC",64,64
    50 S1%=1:S2%=2:A%=0:C%=0:K%=10:S%=360/K%
    60 DIMX(K%),Y(K%),X1%(K%,15),Y1%(K%,15)
    70 

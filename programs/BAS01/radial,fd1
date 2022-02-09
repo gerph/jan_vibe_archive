@@ -1,6 +1,6 @@
    10 REM > RADIAL
    20 
-   30 SYS"OS_UpdateMEMC",64,64
+   30 REM SYS"OS_UpdateMEMC",64,64
    40 ONERRORGOTO280
    50 MODE12:OFF:K%=20
    60 DIMX%(K%),Y%(K%),DX%(K%),DY%(K%),C%(K%)

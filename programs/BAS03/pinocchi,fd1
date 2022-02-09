@@ -3,7 +3,7 @@
    30 A$="Hvorfor går brandmænd med røde seler ?  Ellers taber de bukserne!!  "
    40 
    50 MODE141:MODE13:OFF
-   60 SYS"OS_UpdateMEMC",64,64
+   60 REM SYS"OS_UpdateMEMC",64,64
    70 
    80 DIMLX%(4,64),LY%(4,64),C%(4),SP$(4),B% 9
    90 S1%=1:S2%=2:L%=0

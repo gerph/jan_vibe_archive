@@ -1,7 +1,7 @@
    10 REM > BEZIER3
    20 
    30 MODE140:MODE12:OFF
-   40 SYS"OS_UpdateMEMC",64,64
+   40 REM SYS"OS_UpdateMEMC",64,64
    50 S1%=1:S2%=2:P%=5
    60 DIM X(P%),Y(P%),DX(P%),DY(P%),F(P%)
    70 FORN%=0TOP%

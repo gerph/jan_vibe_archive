@@ -1,7 +1,7 @@
    10 REM > BLOBS
    20 
    30 MODE12:MODE140:K%=20:OFF
-   40 SYS"OS_UpdateMEMC",64,64
+   40 REM SYS"OS_UpdateMEMC",64,64
    50 ONERRORGOTO280
    60 S1$="1":S2$="2"
    70 DIMX%(K%),Y%(K%),R(K%),D(K%),DX%(K%),DY%(K%)

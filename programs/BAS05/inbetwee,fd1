@@ -1,6 +1,6 @@
    10 REM > INBETWEEN
    20 
-   30 SYS"OS_UpdateMEMC",64,64
+   30 REM SYS"OS_UpdateMEMC",64,64
    40 MODE128:MODE0:OFF
    50 S1%=1:S2%=2:A%=8:K%=30:P1%=1:P2%=2
    60 

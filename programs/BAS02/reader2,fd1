@@ -4,7 +4,7 @@
    40 REM Hvis spriten 'pencil' ikke er tilstede, kan den dannes med
    50 REM programmet MAKEPEN.
    60 
-   70 SYS"OS_UpdateMEMC",64,64
+   70 REM SYS"OS_UpdateMEMC",64,64
    80 ON ERROR GOTO 560
    90 
   100 FIL$="TEXT"

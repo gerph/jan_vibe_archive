@@ -1,7 +1,7 @@
    10 REM > BLAENDE
    20 
    30 MODE128:MODE0:OFF
-   40 SYS"OS_UpdateMEMC",64,64
+   40 REM SYS"OS_UpdateMEMC",64,64
    50 S1$="1":S2$="2":F=2*PI/3:Z%=35:K%=15:S%=360/K%
    60 DIM X%(S%),Y%(S%),A%(S%)
    70 FORN%=1TOS%:T=RAD(K%*N%)

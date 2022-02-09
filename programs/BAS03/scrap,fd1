@@ -1,7 +1,7 @@
    10 REM > SCRAP
    20 
    30 MODE141:MODE13:OFF
-   40 SYS"OS_UpdateMEMC",32,32
+   40 REM SYS"OS_UpdateMEMC",32,32
    50 S1$="1":S2$="2"
    60 
    70 ORIGIN 640,512:A%=30

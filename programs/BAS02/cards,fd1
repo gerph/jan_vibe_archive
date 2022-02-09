@@ -1,7 +1,7 @@
    10 REM > CARDS
    20 
    30 MODE9
-   40 SYS"OS_UpdateMEMC",64,64
+   40 REM SYS"OS_UpdateMEMC",64,64
    50 ONERRORGOTO480
    60 
    70 *SNEW

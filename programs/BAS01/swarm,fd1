@@ -1,6 +1,6 @@
    10 REM > SWARM
    20 
-   30 SYS"OS_UpdateMEMC",64,64
+   30 REM SYS"OS_UpdateMEMC",64,64
    40 ONERRORGOTO 300
    50 
    60 MODE0
